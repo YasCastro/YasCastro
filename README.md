@@ -1,11 +1,11 @@
 # 👋 Hi there
 
 I'm Yasmine, a passionate software developer and tech enthusiast. I currently work as a Software Developer at Accenture.
-With over 4 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 🚀 Expertise
 
-Passionate about crafting interactive and intuitive user experiences as well as effective api's, I specialize in fullstack development, combining modern frameworks with best practice design patterns. With over 4 years dedicated to honing my skills in front-end and back-end technologies, I've designed system guidelines, and upheld the highest standards in software performance.
+Passionate about crafting interactive and intuitive user experiences as well as effective api's, I specialize in fullstack development, combining modern frameworks with best practice design patterns. With over 5 years dedicated to honing my skills in front-end and back-end technologies, I've designed system guidelines, and upheld the highest standards in software performance.
 
 In my professional journey, I've proudly served as a Front-end Developer crafting top-tier user interfaces for desktop and web applications and later on, created effective algorithms with the necessary features to power my projects.
 
