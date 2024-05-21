@@ -21,13 +21,13 @@ Outside of the professional environment, I nurture a unique passion: creating di
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=yascastro&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yascastro&theme=dracula&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=yascastro&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yascastro&theme=transparent&hide_border=false"  width="400px" />
 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=yascastro&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=yascastro&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🎓 Certifications:
 <div>
-  <img height="180em" src="https://github.com/a-lloma/a-lloma/assets/35180706/fbdbf793-5611-42bb-824a-19cc2a3fad02.png"/>
+  <img height="180em" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png"/>
 </div>
